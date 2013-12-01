@@ -1,10 +1,10 @@
-# Testing coverage of the file: Queue_Test.py
+# Testing coverage of the file: SplayTree_Test.py
 import coverage
 cov = coverage.coverage()
 cov.start()
 
-import Queue_Test
-Queue_Test.test()
+import SplayTree_Test
+SplayTree_Test.test()
 
 cov.stop()
 cov.save()
