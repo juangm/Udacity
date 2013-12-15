@@ -1,4 +1,7 @@
-Udacity_ST
+Udacity
 ==========
 
-Solutions problems related to the course Software Testing in Udacity
+Solutions problems related to diferent courses from www.Udacity.com
+
+- SOFTWARE TESTING
+- SOFTWARE DEBUGGING
